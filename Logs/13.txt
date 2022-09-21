@@ -1,0 +1,4 @@
+Time: 19:00
+IP Address: 172.16.13.72
+Action: Log Out
+User: Shahar

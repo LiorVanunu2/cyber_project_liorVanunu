@@ -1,0 +1,4 @@
+Time: 17:00
+IP Address: 172.16.13.15
+Action: Log Out
+User: Gilad

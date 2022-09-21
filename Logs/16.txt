@@ -1,0 +1,4 @@
+Time: 15:00
+IP Address: 172.16.13.14
+Action: Log Out
+User: Adam

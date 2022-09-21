@@ -1,0 +1,4 @@
+Time: 13:00
+IP Address: 172.16.13.23
+Action: Log Out
+User: Lidor

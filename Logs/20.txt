@@ -1,0 +1,4 @@
+Time: 19:30
+IP Address: 172.16.13.52
+Action: Log Out
+User: Maya
